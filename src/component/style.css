@@ -1,0 +1,28 @@
+span{
+    float: right;
+    margin-top: 10px;
+}
+.nav{
+    background-color: rgb(182, 214, 209);
+    color: black;
+    margin-left: 5px;
+    padding: 10px;
+    width: 200px;
+}
+#select{
+    float: right;
+  border: none;
+}
+.font{
+    font-family: blod;
+    color: black;
+}
+#web{
+    float: left;
+}
+.button{
+    text-align: center;
+    align-items: center;
+    margin-left: 50%;
+   margin-top: 40px;
+}
